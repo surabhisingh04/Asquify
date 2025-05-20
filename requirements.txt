@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+aiofiles
+python-multipart
+PyPDF2
+pypdf
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers  # for HuggingFace embeddings

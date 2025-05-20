@@ -60,7 +60,7 @@ http://127.0.0.1:8000
 ```text
 asquify/
 ├── app.py               # Main FastAPI app
-├── templates/           # Jinja2 templates
+├── templates/           # indec.html
 ├── static/
 │   ├── docs/            # Uploaded PDF files
 │   └── output/          # Exported Q&A CSVs

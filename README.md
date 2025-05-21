@@ -74,7 +74,7 @@ asquify/
 1. Upload a PDF document via the UI.  
 2. Asquify processes and chunks the text.  
 3. It uses LLaMA3 (via Ollama) to generate meaningful questions.  
-4. Then it uses a vector search (FAISS + HuggingFace) to answer them.  
+4. Then it uses a vector search (FAISS + HuggingFace) to answer them. 
 5. Download the results as a neat CSV file!
 
 ---
